@@ -1,6 +1,7 @@
 import React from 'react'
 
-function Bloorbby() {
+function Bloosbby() {
+
     return (
         <div>
 
